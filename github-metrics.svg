@@ -527,7 +527,7 @@
                                         <span>starred Oct 22 2025</span>
                                     </div>
                                 </div>
-                                <div class="field description">A client for YouTube Helper</div>
+                                <div class="field description">A client for YouTube Helper (READ ONLY MIRROR)</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -728,7 +728,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2026, 18:42:49 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Apr 2026, 21:30:08 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
